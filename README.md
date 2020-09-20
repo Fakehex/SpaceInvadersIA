@@ -4,7 +4,7 @@ The second one is translating it on C++ using Arcade Learning Environment, and p
 
 For more informations refer to the report. (Only in french)
 
-##Contributors
+## Contributors
 	Gizel HADJI
 	Frederik VOIGT
 	Quentin COGNARD
